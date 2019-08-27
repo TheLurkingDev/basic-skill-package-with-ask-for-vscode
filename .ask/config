@@ -10,7 +10,7 @@
         },
         "interactionModel": {
           "en-US": {
-            "eTag": "242df942bc3024518ea345b83e997ad9"
+            "eTag": "595ebce780fabb1b09e6be857e0acc82"
           }
         },
         "lambda": [
@@ -23,7 +23,7 @@
             "codeUri": "lambda/custom",
             "functionName": "ask-custom-Hello-World-Using-ASK-For-VSCode-default",
             "handler": "index.handler",
-            "revisionId": "a8b7e8c9-10a9-437d-9bbd-0c4bd9097158",
+            "revisionId": "67051688-e33a-4f45-a934-e67afdc8dd63",
             "runtime": "nodejs8.10"
           }
         ]
